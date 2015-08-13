@@ -4,7 +4,7 @@ Our mission is to create a collection of classic open source games. This is not 
 
 Play the game at `CarolynFuller.github.io/github-games`
 
-It is a free for all. Good luck! It is still confusing me.
+It is a free for all. Good luck! It is still confusing me. Make a change to push
 
 1. Press the space bar to start the game.
 2. Use the up arrow to change the shape as it falls.
